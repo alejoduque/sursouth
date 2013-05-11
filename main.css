@@ -198,10 +198,19 @@ h1 {
   font-size: 32px;
   font-weight: 900; }
 
+/*
 h2 {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 2px; }
+*/
+
+
+h2 {
+  font-size: 16px;
+  font-weight: bold;
+  width: 848px;
+}
 
 h3 {
   font-size: 24px;
